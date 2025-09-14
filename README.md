@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Gachon Univ. AI department 👋
+Open Source SW
 <!--
 **sxxnuu/sxxnuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
