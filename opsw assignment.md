@@ -1,5 +1,5 @@
 # My Project Plan (Level 1 Heading)
-*Note:* This document is written merely as an illustrative example, and does not provide any working guide to an actual project.
+***Note:*** This document is written merely as an illustrative example, and does not provide any working guide to an actual project.
 
 ### Proposal (Level 3 Heading)
 ---
@@ -17,7 +17,7 @@ For example, the objects in the following images were detected using [mmdetectio
 - openmmlab
 - package manager
 ### Installation
-In a bash terminal, run the following commands (Do Not actually run these commands in your computer):
+In a bash terminal, run the following commands (*Do Not actually run these commands in your computer*):
 ```sh
 $ sudo apt update
 $ conda create -n cv_detection
